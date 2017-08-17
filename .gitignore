@@ -1,0 +1,16 @@
+.springBeans
+bin
+target/*
+resources/application.properties
+
+# Eclipse artifacts, including WTP generated manifests
+.classpath
+.project
+.metadata
+spring-*/src/main/java/META-INF/MANIFEST.MF
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea/*
+.idea/workspace.xml
